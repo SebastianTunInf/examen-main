@@ -308,4 +308,5 @@ iframe {
     position: relative;
     flex-wrap: wrap;
     display: flex;
+    overflow: hidden;
 }
